@@ -1,0 +1,26 @@
+[view_keys]
+
+[spend_keys]
+
+[payment_addrs]
+
+[secret_keys]
+
+[public_keys]
+
+[derivation_paths]
+
+[addresses]
+ethbridge = "tnam1quqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqfgdmms"
+ethbridgepool = "tnam1pqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqu35hpf"
+governance = "tnam1q5qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrw33g6"
+ibc = "tnam1qcqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqvtr7x4"
+masp = "tnam1pcqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqzmefah"
+naan = "tnam1qxvg64psvhwumv3mwrrjfcz0h3t3274hwggyzcee"
+pos = "tnam1qgqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqc8j2fp"
+publicgoodfundings = "tnam1pgqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkhgajr"
+
+[pkhs]
+
+[address_vp_types]
+token = ["tnam1qxvg64psvhwumv3mwrrjfcz0h3t3274hwggyzcee"]
