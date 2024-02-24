@@ -1,0 +1,9 @@
+chain_id = "shielded-expedition.88f17d1d14"
+genesis_time = "2024-02-06T18:00:00+00:00"
+
+[consensus_timeout_commit]
+secs = 10
+nanos = 0
+
+[address_gen]
+last_hash = [223, 10, 250, 36, 150, 129, 170, 196, 28, 182, 42, 12, 57, 45, 213, 217, 222, 149, 69, 144, 247, 123, 219, 50, 37, 0, 33, 33, 96, 51, 23, 190]
