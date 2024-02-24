@@ -1,0 +1,9 @@
+[token.naan]
+address = "tnam1qxvg64psvhwumv3mwrrjfcz0h3t3274hwggyzcee"
+denom = 6
+
+[token.naan.masp_params]
+max_reward_rate = "0"
+kd_gain_nom = "0"
+kp_gain_nom = "0"
+locked_amount_target = 0
